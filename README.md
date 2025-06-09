@@ -22,7 +22,9 @@ FrontEnd
 
 BackEnd 
 |------------|-------------|
-| ![CSV Upload](assets/frontend-upload.png) | ![API Screenshot](assets/backend-api.png) |
+![Image](https://github.com/user-attachments/assets/7525bd99-e33e-41e9-8448-ed173219a93e)
+
+![Image](https://github.com/user-attachments/assets/2bf37db7-72b4-4761-9a97-8714c0916035)
 
 ---
 
