@@ -19,7 +19,8 @@ FrontEnd
 ![Image](https://github.com/user-attachments/assets/2e6fd9e9-b2c9-47ed-a4ed-fff3f09b7758)
 ![Image](https://github.com/user-attachments/assets/f906dbea-a1c6-4592-ac84-82c908c95a26)
 ![Image](https://github.com/user-attachments/assets/41a613cf-deff-4ee6-98bb-f08a6c0b73c1)
-| Upload CSV | Backend API |
+
+BackEnd 
 |------------|-------------|
 | ![CSV Upload](assets/frontend-upload.png) | ![API Screenshot](assets/backend-api.png) |
 
